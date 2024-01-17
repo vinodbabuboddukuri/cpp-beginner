@@ -1,6 +1,11 @@
-#include<bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <string>
+
 using namespace std;
+
 int main()
 {
-	cout<<"Hello world"<<endl;
+        cout <<"word "<<endl;
+        return 0;
 }
